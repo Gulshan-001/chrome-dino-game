@@ -1,0 +1,9 @@
+body{
+    font-family: 'Rockwell', 'Georgia', serif;
+    text-align: center;
+}
+
+#board{
+    background-color: white;
+    border-bottom: 1px solid black;
+}
